@@ -44,9 +44,9 @@ bash unicorn.sh
 [![Telegram](https://img.shields.io/badge/-Telegram-222222?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/JerkKids)](https://t.me/JerkKids)
 [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram/jerkkids)](https://instagram.com/jerkkids)
 [![GitHub stars](https://img.shields.io/github/stars/Jerkx/shark_project.svg)](https://github.com/Jerkx/shark_project/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Jerkx/shark_project.svg)](https://github.com/Jerkx/shark_project/network/membe                   
-[![GitHub issues](https://img.shields.io/github/issues/shark_project/Ask.svg)](https://github.com/Gameye98/Jerkx/Ask)                                  
-[![GitHub watchers](https://img.shields.io/github/watchers/Jerkx/shark_project.svg)](https://github.com/Jerkx/shark_project/watcher
+[![GitHub forks](https://img.shields.io/github/forks/Jerkx/shark_project.svg)](https://github.com/Jerkx/shark_project/network/members)                   
+[![GitHub issues](https://img.shields.io/github/issues/shark_project/Ask.svg)](https://github.com/Jerkx/Ask)                                  
+[![GitHub watchers](https://img.shields.io/github/watchers/Jerkx/shark_project.svg)](https://github.com/Jerkx/shark_project/watchers)
 
 ## Disclaimer
 '''
