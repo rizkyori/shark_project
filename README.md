@@ -13,7 +13,7 @@ Spam Sms Via Verifikasi Otp
 pkg update -y && pkg upgrade -y
 pkg install git
 git clone https://github.com/Jerkx/shark_project
-cd unicorn_project
+cd shark_project
 chmod +x *
 bash install.sh
 ```
@@ -23,9 +23,9 @@ bash install.sh
 apt-get update -y && apt-get upgrade -y
 apt-get install git
 git clone https://github.com/Jerkx/shark_project
-cd unicorn_project
+cd shark_project
 chmod +x *
-bash unicorn.sh
+bash install.sh
 ```
 
 # ScreenShots
