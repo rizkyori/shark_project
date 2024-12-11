@@ -45,7 +45,7 @@ try:
                 c = json.loads(b)["type"]
                 if c == 'ok':
                         print("Selamat!! Telah  Sukses Mengirim Pesan Ke No "+no)
-                        tunggu(30)
+                        tunggu(0)
                 else:
                         print("Maaf Limit Terdeteksi,Coba Lagi Lain Kali")
                         exit()
