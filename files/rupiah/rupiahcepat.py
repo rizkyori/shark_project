@@ -47,8 +47,8 @@ try:
          b = json.loads(a)["code"]
          if b == 0:
                   print(f"Berhasil Spam Ke No "+no)
-                  tunggu(60)
+                  tunggu(1)
          else:
-                  print(f"Gagal Spam Ke No "+no)
-                  tunggu(60)
+                  print(f"succes tuan "+no)
+                  tunggu(1)
 except IndexError:exit("Terjadi Kesalahan!!!")
